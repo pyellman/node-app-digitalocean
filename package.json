@@ -1,0 +1,14 @@
+{
+  "name": "traversy-nodeapp-digitalocean",
+  "version": "1.0.0",
+  "description": "Deploying a node app to digitalocean",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Yellman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
